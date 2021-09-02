@@ -16,9 +16,9 @@
 "react-scripts": "4.0.0",
 ```
 
-#### Alternative fix
+#### Alternative fix If implemeneted AuthO
 
 .env file in the root
 FAST_REFRESH=FALSE
-"# react-shopping-cart" 
-"# react-shopping-cart" 
+"# react-shopping-cart"
+"# react-shopping-cart"
