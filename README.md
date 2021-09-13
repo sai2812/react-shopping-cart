@@ -1,5 +1,7 @@
 ## Notes
 
+Deployed Site at : https://comfy-sloth-cart.netlify.app/
+
 #### Older React Version
 
 ```
